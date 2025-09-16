@@ -1,2 +1,2 @@
-# studious-succotash
+# study-time
 this is a game 
